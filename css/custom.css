@@ -1,9 +1,13 @@
 .social-media {
 	list-style: none;
 	text-align: center;
-	margin-top: 20px;
+	margin-top: 55px;
 }
 
 .social-media li {
 	display: inline;
+}
+
+footer {
+	padding-top: 50px;
 }
