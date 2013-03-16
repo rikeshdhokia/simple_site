@@ -1,0 +1,9 @@
+.social-media {
+	list-style: none;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.social-media li {
+	display: inline;
+}
